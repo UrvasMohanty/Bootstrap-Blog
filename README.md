@@ -1,2 +1,2 @@
-# Bootstrap-Blog
-Live Demo-  https://urvasmohanty.github.io/Bootstrap-Blog/
+# TechSphere-Modern-Tech-Blog
+Live Demo-   https://urvasmohanty.github.io/TechSphere-Modern-Tech-Blog/
